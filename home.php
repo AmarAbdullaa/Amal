@@ -157,7 +157,7 @@ main{
 	flex-direction: column;
     padding: 30px 30px;
 	margin-left: 210px;
-	background-color: white;
+	background-color: #D8BFD8;
 }
 section.content {
   flex: 1; 
@@ -514,6 +514,7 @@ grid-template-columns: 1fr;
     max-width: 100%; /* Add space between items */
     margin: 0 auto;
     gap: 20px;
+    
 }
 
 
@@ -555,7 +556,7 @@ grid-template-columns: 1fr;
 	 <section class="content">
 		 <h1>Amalgamated Club</h1>
 		 <h1>University Of Colombo</h1>
-		 <img src="Amalgamated-Club-logo.png" alt="uni logo">
+		 <img src="Amal.png" alt="uni logo">
 		 <!--div class="year_plan"><a href="#">Year Plan</a></div-->
 </setion>
 		 

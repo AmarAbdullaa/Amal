@@ -336,8 +336,8 @@ nav a.active {
                     <i class="arrow"></i>
                 </a>
                 <div class="dropdown">
-                    <a href="Medical.php" class="dropdown-link">Medical</a>
-                    <a href="Letter.php" class="dropdown-link">Execuse Letter</a>
+                    <a href="rules.php" class="dropdown-link">Rules and Regulations</a>
+                    <a href="hostel.php" class="dropdown-link">Hostel</a>
                     <a href="certification.php" class="dropdown-link">Certifications</a>
                 </div>
             </li>
@@ -412,6 +412,8 @@ nav a.active {
             activeDropdown = null;
         }
     });
+
+    
 });
     </script>
 </body>
