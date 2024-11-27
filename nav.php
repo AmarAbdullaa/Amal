@@ -315,15 +315,7 @@ nav a.active {
                 </a>
             </li>
 
-            <!-- Gym  -->
             
-            <!-- Enhancement Letter -->
-            <li class="nav-item">
-                <a href="demo.php" class="nav-link">
-                    <i class="uil uil-user"></i>
-                    Enhancement Letter
-                </a>
-            </li>  
 
 
 
@@ -338,7 +330,6 @@ nav a.active {
                 <div class="dropdown">
                     <a href="rules.php" class="dropdown-link">Rules and Regulations</a>
                     <a href="hostel.php" class="dropdown-link">Hostel</a>
-                    <a href="certification.php" class="dropdown-link">Certifications</a>
                 </div>
             </li>
            

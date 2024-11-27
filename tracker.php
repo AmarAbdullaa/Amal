@@ -20,6 +20,7 @@ body {
     border-radius: 8px;
     margin-left: 220px  ;
     height:100vh;
+    background-color: #D8BFD8;
   }
   
   h1 {
@@ -32,6 +33,7 @@ body {
     display: flex;
     gap: 10px;
     margin-bottom: 20px;
+    margin-left: 20px;
   }
   
   input, select, button {
@@ -80,6 +82,11 @@ body {
     font-size: 1.1em;
     color: #333;
   }
+
+  .attendance-table
+  {
+   margin: 10px;
+  }
   
       </style>
         </head>
@@ -108,7 +115,7 @@ body {
             </div>
             
             <!-- Attendance Table -->
-            <table>
+            <table class="attendance-table">
               <thead>
                 <tr>
                   <th>Name</th>

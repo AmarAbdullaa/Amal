@@ -96,7 +96,7 @@ h2 {
 }
 
 .btn-blue {
-    background-color: #007bff;
+    background-color: #9370DB;
     color: #fff;
 }
 
@@ -114,7 +114,7 @@ h2 {
 }
 
 .btn-upload {
-    background-color: #007bff;
+    background-color: #9370DB;
     color: #fff;
     margin: 30px;
     margin-left: 01px;
